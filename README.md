@@ -201,8 +201,8 @@ The evaluation script generates bird's-eye-view plots showing:
 
 | | |
 |---|---|
-| ![Visualization 1](vis_5.png) | ![Visualization 2](vis_15.png) |
-| ![Visualization 3](vis_30.png) | ![Visualization 4](vis_50.png) |
+| ![Visualization 1](linear_crowd_navigation.png) | ![Visualization 2](fast_accelerating_trajectory.png) |
+| ![Visualization 3](sharp_turn_interaction.png) | ![Visualization 4](slow_moving_baseline.png) |
 
 ---
 

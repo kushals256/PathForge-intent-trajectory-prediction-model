@@ -15,8 +15,8 @@ v1.0-mini/
 # Model weights — included for evaluation
 # best_model.pth
 
-# Generated visualizations — included for README
-# vis_*.png
+# Generated visualizations
+vis_*.png
 
 # OS files
 .DS_Store

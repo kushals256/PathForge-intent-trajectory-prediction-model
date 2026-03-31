@@ -96,8 +96,8 @@ Input (x, y, dx, dy, heading, class, moving)
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/kushals256/intent-trajectory-prediction-model.git
-cd intent-trajectory-prediction-model
+git clone https://github.com/kushals256/PathForge-intent-trajectory-prediction-model.git
+cd PathForge-intent-trajectory-prediction-model
 
 # 2. Create and activate virtual environment
 python -m venv venv
